@@ -1,0 +1,36 @@
+
+.name {
+  color: aliceblue;
+  font-size: 20px;
+}
+
+.country {
+  color: rgb(185, 216, 216);
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.icon {
+  background-color: hsl(0, 0%, 0%, 50%);
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.condition {
+  color: yellow;
+}
+
+.temp {
+  color: white;
+  font-size: 40px;
+}
+
+.feels-like {
+  color: aquamarine;
+  font-size: 15px;
+}
+
+.last-updated {
+  color: white;
+  padding-top: 30px;
+}

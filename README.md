@@ -1,3 +1,3 @@
 Weather App
 
-![weatherapp](https://user-images.githubusercontent.com/69878700/174458645-5596759f-427c-48de-8e50-fc6a1d33ea3a.jpg)
+![weatherapp](https://user-images.githubusercontent.com/69878700/174656451-790abb36-6ece-4952-b15c-e1835e0f89ad.jpg)
